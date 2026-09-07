@@ -9,4 +9,5 @@
 ## Pertemuan 1
 
 Berikut adalah hasil dokumentasi/screenshot dari praktikum Pertemuan 1:
-<img width="417" height="886" alt="Screenshot 2026-09-07 215544" src="https://github.com/user-attachments/assets/7eb28636-b738-43b3-abc2-dfa33b7d68b8" />
+
+<img width="417" height="886" alt="Screenshot 2026-09-07 215544" src="https://github.com/user-attachments/assets/88dba7d1-72d7-45b2-8a45-5c8d7e88442e"/>
