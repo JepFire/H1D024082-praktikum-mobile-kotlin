@@ -18,3 +18,10 @@ Berikut adalah hasil dokumentasi/screenshot dari praktikum Pertemuan 2:
 
 <img width="423" height="890" alt="image" src="https://github.com/user-attachments/assets/4ef6df73-7eb8-4293-9b3c-c68ff1ea6359" />
 <img width="427" height="893" alt="image" src="https://github.com/user-attachments/assets/bb06fd7e-49a2-4efb-be18-cc1372d85f9e" />
+
+Berikut adalah hasil dokumentasi/screenshot dari praktikum Pertemuan 3:
+
+<img width="1080" height="2132" alt="Tema gelap" src="https://github.com/user-attachments/assets/7b56cbbf-a101-4887-9cd3-fce8c7d0a53b" />
+<img width="1080" height="2132" alt="Tema terang" src="https://github.com/user-attachments/assets/8327a261-90d0-4216-9f60-c33c74cb3737" />
+
+
