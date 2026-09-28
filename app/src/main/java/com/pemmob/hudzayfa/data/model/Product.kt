@@ -7,6 +7,6 @@ data class Product(
     val name: String,
     val description: String?,
     val price: Double,
-    val stok: Int,
+    val stock: Int,
     val img: String
 )
