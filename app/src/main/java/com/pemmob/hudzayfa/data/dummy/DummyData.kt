@@ -7,7 +7,7 @@ object DummyData {
     val categories = listOf(
         Category(id =1, name = "Makanan", description = "Aneka Makanan Lokal", products_count = 5 ),
         Category(id =2, name = "Minuman", description = "Minuman Segar", products_count = 5 ),
-        Category(id =1, name = "Kerajinan", description = "Kerajinan Tangan", products_count = 5 )
+        Category(id =3, name = "Kerajinan", description = "Kerajinan Tangan", products_count = 5 )
     )
 
     val products = listOf(

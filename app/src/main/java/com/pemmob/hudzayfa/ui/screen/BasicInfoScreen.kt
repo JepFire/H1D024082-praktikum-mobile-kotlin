@@ -31,7 +31,10 @@ import com.pemmob.hudzayfa.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun BasicInfoScreen(onNavigateToContact: () -> Unit = {}) {
+fun BasicInfoScreen(
+    onNavigateToContact: () -> Unit = {},
+    onNavigateToProducts: () -> Unit = {}
+) {
     Scaffold(
         topBar = {
             TopAppBar(
@@ -121,6 +124,18 @@ fun BasicInfoScreen(onNavigateToContact: () -> Unit = {}) {
 
             // Dorong tombol ke bawah
             Spacer(modifier = Modifier.weight(1f))
+
+            // Tombol Lihat Produk
+            Button(
+                onClick = onNavigateToProducts,
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .height(50.dp)
+            ) {
+                Text("Lihat Daftar Produk", style = MaterialTheme.typography.labelLarge)
+            }
+
+            Spacer(modifier = Modifier.height(12.dp))
 
             // Tombol Hubungi Kami di bagian bawah
             Button(

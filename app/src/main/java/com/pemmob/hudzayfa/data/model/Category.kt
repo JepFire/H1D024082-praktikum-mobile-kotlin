@@ -6,4 +6,3 @@ data class Category(
     val description: String?,
     val products_count: Int?
 )
-
