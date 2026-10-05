@@ -34,4 +34,13 @@ Berikut adalah hasil dokumentasi/screenshot dari praktikum Pertemuan 4:
 <img width="423" height="890" alt="Prak Pemmob Pertemuan 4 Terang 2" src="https://github.com/user-attachments/assets/486e4656-c0c8-4cba-965f-8e0c1e85b3fb" />
 <img width="423" height="890" alt="Prak Pemmob Pertemuan 4 Terang 3" src="https://github.com/user-attachments/assets/47d8225e-74c6-4b73-a051-e600616f2302" />
 
+## Pertemuan 5
+
+Berikut adalah hasil dokumentasi/screenshot dari praktikum Pertemuan 5:
+
+<img width="423" height="890" alt="Screenshot_20261005_232937_Jualan" src="https://github.com/user-attachments/assets/337f3a47-8bfc-4298-83b4-80e0d620c9f4" />
+<img width="423" height="890" alt="Screenshot_20261005_232946_Jualan" src="https://github.com/user-attachments/assets/d17ecf69-b83e-4a06-841d-9e7eb6067a76" />
+
+
+
 
